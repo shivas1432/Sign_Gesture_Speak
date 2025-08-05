@@ -28,7 +28,7 @@
 
 <div align="center">
   <img src="./demo/guide.png" alt="Hand Tracking" width="45%" />
-  <img src="./demo/instructions.png" alt="Results Panel" width="45%" />
+  <img src="./demo/instuctions.png" alt="Results Panel" width="45%" />
 </div>
 
 ---
