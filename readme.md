@@ -22,11 +22,12 @@
 ## 📸 Demo Screenshots
 
 <div align="center">
-  <img src="./demo/intro.png" alt="Main Interface" width="45%" />
-  <img src="./demo/ml.png" alt="Gesture Recognition" width="45%" />
+  <img src="./demo/intro.png" alt="Main Interface" width="75%" />
+  <img src="./demo/ml.png" alt="Gesture Recognition" width="25%" />
 </div>
 
 <div align="center">
+ 
   <img src="./demo/guide.png" alt="Hand Tracking" width="45%" />
   <img src="./demo/instuctions.png" alt="Results Panel" width="45%" />
 </div>
