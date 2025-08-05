@@ -301,7 +301,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - **Issues**: [GitHub Issues](https://github.com/shivas1432/signspeak/issues)
 - **Discussions**: [GitHub Discussions](https://github.com/shivas1432/signspeak/discussions)
-- **Email**: shivashanker@signspeak.app
+- **Email**: shivashanker7337@gmail.com
 - **Telegram**: [@helpme_coder](https://t.me/helpme_coder)
 
 ---
