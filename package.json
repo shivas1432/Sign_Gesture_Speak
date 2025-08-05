@@ -1,13 +1,46 @@
 {
-  "name": "vite-react-typescript-starter",
+  "name": "sign-gesture-speak",
   "private": true,
-  "version": "0.0.0",
+  "version": "1.0.0",
   "type": "module",
+  "description": "Real-time ASL gesture recognition web app that converts sign language to text and speech using advanced computer vision and machine learning",
+  "author": {
+    "name": "Kanugula Shivashanker",
+    "email": "shivashanker@signspeak.app",
+    "url": "https://www.shivashanker.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shivas1432/Sign_Gesture_Speak.git"
+  },
+  "bugs": {
+    "url": "https://github.com/shivas1432/Sign_Gesture_Speak/issues"
+  },
+  "homepage": "https://signgesture.netlify.app",
+  "keywords": [
+    "asl",
+    "sign-language",
+    "gesture-recognition",
+    "computer-vision",
+    "mediapipe",
+    "tensorflow",
+    "react",
+    "typescript",
+    "accessibility",
+    "machine-learning",
+    "real-time",
+    "hand-tracking",
+    "text-to-speech",
+    "pwa"
+  ],
+  "license": "MIT",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "type-check": "tsc --noEmit",
+    "clean": "rm -rf dist"
   },
   "dependencies": {
     "@mediapipe/camera_utils": "^0.3.1675466862",
@@ -34,5 +67,15 @@
     "typescript": "^5.5.3",
     "typescript-eslint": "^8.3.0",
     "vite": "^5.4.2"
-  }
+  },
+  "engines": {
+    "node": ">=18.0.0",
+    "npm": ">=8.0.0"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not dead",
+    "not ie 11"
+  ]
 }
