@@ -18,11 +18,10 @@
 </div>
 
 ---
-
 ## 📸 Demo Screenshots
 
 <div align="center">
-  <img src="./demo/main-interface.png" alt="Main Interface" width="45%" />
+  <img src="./demo/intro.png" alt="Main Interface" width="45%" />
   <img src="./demo/gesture-recognition.png" alt="Gesture Recognition" width="45%" />
 </div>
 
@@ -31,7 +30,6 @@
   <img src="./demo/results-panel.png" alt="Results Panel" width="45%" />
 </div>
 
----
 
 ## 🌟 Features
 
