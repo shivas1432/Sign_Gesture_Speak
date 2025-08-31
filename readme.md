@@ -303,9 +303,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-- **Issues**: [GitHub Issues](https://github.com/shivas1432/signspeak/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/shivas1432/signspeak/discussions)
-- **Email**: shivashanker@signspeak.app
+- **Issues**: [GitHub Issues](https://github.com/shivas1432/Sign_Gesture_Speak/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/shivas1432/Sign_Gesture_Speak/discussions)
+- **Email**: shivashanker7337@gamil.com
 - **Telegram**: [@helpme_coder](https://t.me/helpme_coder)
 
 ---
