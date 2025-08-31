@@ -7,15 +7,22 @@
   <img src="https://img.shields.io/badge/MediaPipe-0.4.1-FF6B35?style=for-the-badge&logo=google&logoColor=white" alt="MediaPipe" />
   <img src="https://img.shields.io/badge/TensorFlow.js-4.22.0-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow.js" />
 </div>
-
-<div align="center">
-  <h3>🤟 Real-time Sign Language Recognition Web Application</h3>
-  <p>Convert ASL gestures to text and speech using advanced computer vision and machine learning</p>
+<div align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; background: #111; padding: 40px; border-radius: 20px; max-width: 800px; margin: auto;">
+  <h3 style="color: #00ff99; text-shadow: 0 0 10px #00ff99, 0 0 20px #00ff99;">🤟 Real-time Sign Language Recognition Web Application</h3>
+  <p style="color: #ccc; font-size: 16px; margin-bottom: 30px;">
+    Convert ASL gestures to text and speech using advanced computer vision and machine learning
+  </p>
   
-  <a href="https://signgesture.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/Live_Demo-Visit_App-4CAF50?style=for-the-badge&logo=netlify&logoColor=white" alt="Live Demo" />
+  <a href="https://signgesture.netlify.app" target="_blank"
+     style="display: inline-block; padding: 15px 35px; font-weight: 600; 
+            font-size: 18px; color: #fff; background: linear-gradient(90deg, #00ff99, #00ccff); 
+            border-radius: 12px; text-decoration: none; 
+            box-shadow: 0 0 10px #00ff99, 0 0 20px #00ff99, 0 0 30px #00ccff, 0 0 40px #00ccff;
+            transition: all 0.3s ease-in-out;">
+    Live Demo
   </a>
 </div>
+
 
 ---
 ## 📸 Demo Screenshots
